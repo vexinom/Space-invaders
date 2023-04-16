@@ -1,0 +1,61 @@
+﻿  main.cpp
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(58): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(70): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(83): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(87): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(134): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(146): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(150): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(353): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(354): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(382): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(392): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(400): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(422): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_colors.h(447): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(43): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(47): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(61): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(65): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(83): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(84): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(85): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(107): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\rest_of_menu_setting.h(108): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_main_menu_class_helper.h(69): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_game_2.h(198): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_game_2.h(223): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2\header_game_2.h(438): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  ConsoleApplication2.vcxproj -> C:\Users\marty\Desktop\C++ smfl projekty\Projekt_na_infę\Space invaider 1.0\x64\Debug\ConsoleApplication2.exe

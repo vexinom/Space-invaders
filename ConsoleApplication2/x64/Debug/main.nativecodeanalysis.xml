@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_menu_class.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Menu_elements::width' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Menu_elements::{ctor}</FUNCTION>
+    <DECORATED>??0Menu_elements@@QEAA@XZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_menu_class.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Menu_elements::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Menu_elements::{ctor}</FUNCTION>
+    <DECORATED>??0Menu_elements@@QEAA@XZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_menu_class.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Menu_elements::b' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Menu_elements::{ctor}</FUNCTION>
+    <DECORATED>??0Menu_elements@@QEAA@XZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_menu_class.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Menu_elements::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Menu_elements::{ctor}</FUNCTION>
+    <DECORATED>??0Menu_elements@@QEAA@XZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_colors.h</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Colors_elements::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Colors_elements::{ctor}</FUNCTION>
+    <DECORATED>??0Colors_elements@@QEAA@XZ</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_colors.h</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Colors_elements::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Colors_elements::{ctor}</FUNCTION>
+    <DECORATED>??0Colors_elements@@QEAA@XZ</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_colors.h</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Colors_sprite::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Colors_sprite::{ctor}</FUNCTION>
+    <DECORATED>??0Colors_sprite@@QEAA@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_colors.h</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Colors_sprite::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Colors_sprite::{ctor}</FUNCTION>
+    <DECORATED>??0Colors_sprite@@QEAA@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_game_2.h</FILENAME>
+      <LINE>262</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Alien_bullets::y_pos' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Alien_bullets::{ctor}</FUNCTION>
+    <DECORATED>??0Alien_bullets@@QEAA@XZ</DECORATED>
+    <FUNCLINE>262</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\marty\desktop\c++ smfl projekty\projekt_na_infę\space invaider 1.0\consoleapplication2</FILEPATH>
+      <FILENAME>header_game_2.h</FILENAME>
+      <LINE>262</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Alien_bullets::x_pos' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Alien_bullets::{ctor}</FUNCTION>
+    <DECORATED>??0Alien_bullets@@QEAA@XZ</DECORATED>
+    <FUNCLINE>262</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
